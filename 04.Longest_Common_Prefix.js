@@ -1,4 +1,4 @@
-/**
+/*
  * @param {string[]} strs
  * @return {string}
  */
